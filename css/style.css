@@ -1,0 +1,132 @@
+html{
+background-color: #EDF2C5;
+box-sizing:border-box;
+}
+
+.container{
+max-width: 940px; 
+max-height: 1260px;
+margin-left: auto;
+margin-right: auto;	
+}
+
+.header{
+display:flex;
+text-align:center;
+}
+
+.vegetabletop{
+	color: #778A50;
+	font-size: 36px;
+	font-family: Arial Black;
+}
+.right{ 
+ display: flex;
+ padding-left: 580px;
+ box-sizing: border-box;
+}
+
+.fb{
+box-sizing: border-box;
+}
+.ig{
+
+}
+.login{
+color: #778A50;
+font-size:14px;
+font-family: Arail BoldMT;
+border:1px #778A50 solid;
+text-align: center;
+line-height: 25px;
+}
+.join{
+color: #778A50;
+font-size:14px;
+font-family: Arail BoldMT;
+border:1px #778A50 solid;
+text-align: center;
+line-height: 25px;
+}
+
+.nav_list{
+	background-color: #778A50;
+	display:flex;
+}
+.nav_list_item{
+	color: #EDF2C5;
+	font-size: 16px;
+	font-family: Arail Black;
+	list-style: none;
+	margin-right: 60px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	text-decoration:none;
+}
+.block{
+display:flex;
+
+}
+.section1{
+box-sizing: border-box;
+text-align:left;
+}
+
+.section2{
+box-sizing: border-box;
+text-align:right;
+}
+.vegetable_bottom{
+background-color: #778A50;
+box-sizing: border-box; 
+color: #EDF2C5;
+font-size:16px;
+font-family:Arial Black; 
+}
+
+.picture{
+display:flex;
+
+box-sizing: border-box;
+}
+
+
+
+.contact{
+background-color: #778A50;
+box-sizing: border-box; 
+color: #EDF2C5;
+font-size:16px;
+font-family:Arial Black; 
+}
+.right{
+background-color:#F7FBDA;
+}
+.main{
+font-family: ArialMT Regular
+font-size:12px;
+color: #7D7D7D;
+line-height:1.33;
+}
+.line2{
+color: #7D7D7D solid
+}
+.email_phone{
+font-family: ArialMT Regular
+font-size:12px;
+color: #7D7D7D;
+line-height:1.83;
+}
+.footer_border{
+background-color: #778A50;
+position:absolute;
+bottom:0px;
+right:0px;
+}
+.footer{
+text-align:center;
+color:#EDF2C5;
+font-family: ArialMT Regular;
+font-size: 12px;
+
+}
